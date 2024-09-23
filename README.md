@@ -81,7 +81,3 @@ Additionally, any other dependencies can be added as needed in a `requirements.t
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-Feel free to adjust this template based on the actual contents and structure of your code! Let me know if you need further customization.
