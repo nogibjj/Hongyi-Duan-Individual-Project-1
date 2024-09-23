@@ -5,7 +5,7 @@
 [![Format](https://github.com/nogibjj/Hongyi-Duan-Individual-Project-1/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/Hongyi-Duan-Individual-Project-1/actions/workflows/format.yml)
 [![Test](https://github.com/nogibjj/Hongyi-Duan-Individual-Project-1/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/Hongyi-Duan-Individual-Project-1/actions/workflows/test.yml)
 
-https://youtu.be/ej4ePZzuXDA
+YouTube Video Link: https://youtu.be/ej4ePZzuXDA
 
 # NBA Players Career and Salary Data Analysis
 
